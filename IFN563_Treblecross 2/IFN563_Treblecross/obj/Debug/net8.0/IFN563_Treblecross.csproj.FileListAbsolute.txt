@@ -1,0 +1,28 @@
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.AssemblyInfoInputs.cache
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.AssemblyInfo.cs
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.csproj.CoreCompileInputs.cache
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/bin/Debug/net8.0/IFN563_Treblecross
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/bin/Debug/net8.0/IFN563_Treblecross.deps.json
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/bin/Debug/net8.0/IFN563_Treblecross.runtimeconfig.json
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/bin/Debug/net8.0/IFN563_Treblecross.dll
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/bin/Debug/net8.0/IFN563_Treblecross.pdb
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.dll
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/refint/IFN563_Treblecross.dll
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.pdb
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.genruntimeconfig.cache
+/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/ref/IFN563_Treblecross.dll
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/bin/Debug/net8.0/IFN563_Treblecross.exe
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/bin/Debug/net8.0/IFN563_Treblecross.deps.json
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/bin/Debug/net8.0/IFN563_Treblecross.runtimeconfig.json
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/bin/Debug/net8.0/IFN563_Treblecross.dll
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/bin/Debug/net8.0/IFN563_Treblecross.pdb
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.AssemblyInfoInputs.cache
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.AssemblyInfo.cs
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.csproj.CoreCompileInputs.cache
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.dll
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/refint/IFN563_Treblecross.dll
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.pdb
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/IFN563_Treblecross.genruntimeconfig.cache
+C:/Users/25390/Documents/WeChat Files/wxid_qtqynivvt9pd21/FileStorage/File/2024-04/IFN563_Treblecross/IFN563_Treblecross/obj/Debug/net8.0/ref/IFN563_Treblecross.dll

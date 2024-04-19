@@ -1,0 +1,65 @@
+{
+  "Tiles": [
+    {
+      "position": 0,
+      "occupied": false,
+      "occupiedBy": null
+    },
+    {
+      "position": 1,
+      "occupied": true,
+      "occupiedBy": null
+    },
+    {
+      "position": 2,
+      "occupied": true,
+      "occupiedBy": null
+    },
+    {
+      "position": 3,
+      "occupied": false,
+      "occupiedBy": null
+    },
+    {
+      "position": 4,
+      "occupied": false,
+      "occupiedBy": null
+    },
+    {
+      "position": 5,
+      "occupied": false,
+      "occupiedBy": null
+    },
+    {
+      "position": 6,
+      "occupied": false,
+      "occupiedBy": null
+    },
+    {
+      "position": 7,
+      "occupied": false,
+      "occupiedBy": null
+    },
+    {
+      "position": 8,
+      "occupied": false,
+      "occupiedBy": null
+    },
+    {
+      "position": 9,
+      "occupied": false,
+      "occupiedBy": null
+    },
+    {
+      "position": 10,
+      "occupied": false,
+      "occupiedBy": null
+    },
+    {
+      "position": 11,
+      "occupied": false,
+      "occupiedBy": null
+    }
+  ],
+  "BoardSize": 12
+}

@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+  },
+  "packageFolders": {
+    "/Users/huangxiaoyuan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross 2/IFN563_Treblecross/IFN563_Treblecross.csproj",
+      "projectName": "IFN563_Treblecross",
+      "projectPath": "/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross 2/IFN563_Treblecross/IFN563_Treblecross.csproj",
+      "packagesPath": "/Users/huangxiaoyuan/.nuget/packages/",
+      "outputPath": "/Users/huangxiaoyuan/Documents/courses/Semester_2/IFN_563/Assignment/IFN563_Treblecross 2/IFN563_Treblecross/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/huangxiaoyuan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

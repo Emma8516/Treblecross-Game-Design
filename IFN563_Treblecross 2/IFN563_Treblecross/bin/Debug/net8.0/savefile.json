@@ -1,0 +1,85 @@
+{
+  "player1": {
+    "playerId": "Player1",
+    "type": "Human"
+  },
+  "player2": {
+    "playerId": "Player2",
+    "type": "Human"
+  },
+  "CurrentPlayer": {
+    "playerId": "Player1",
+    "type": "Human"
+  },
+  "GamePhase": "playing",
+  "WinningPlayer": null,
+  "GameBoard": {
+    "Tiles": [
+      {
+        "position": 0,
+        "occupied": false,
+        "occupiedBy": null
+      },
+      {
+        "position": 1,
+        "occupied": true,
+        "occupiedBy": {
+          "playerId": "Player1",
+          "type": "Human"
+        }
+      },
+      {
+        "position": 2,
+        "occupied": true,
+        "occupiedBy": {
+          "playerId": "Player2",
+          "type": "Human"
+        }
+      },
+      {
+        "position": 3,
+        "occupied": true,
+        "occupiedBy": {
+          "playerId": "Player1",
+          "type": "Human"
+        }
+      },
+      {
+        "position": 4,
+        "occupied": false,
+        "occupiedBy": null
+      },
+      {
+        "position": 5,
+        "occupied": false,
+        "occupiedBy": null
+      },
+      {
+        "position": 6,
+        "occupied": false,
+        "occupiedBy": null
+      },
+      {
+        "position": 7,
+        "occupied": false,
+        "occupiedBy": null
+      },
+      {
+        "position": 8,
+        "occupied": false,
+        "occupiedBy": null
+      },
+      {
+        "position": 9,
+        "occupied": true,
+        "occupiedBy": {
+          "playerId": "Player2",
+          "type": "Human"
+        }
+      }
+    ],
+    "BoardSize": 10
+  },
+  "IsGameOver": false,
+  "BoardSize": 10
+}
